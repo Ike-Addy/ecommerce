@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.top-nav-bar {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+}
+
+.top-left-nav {
+    background-color: #F1F1F1;
+}  
+
+.top-right-nav {
+    background-color: #F1F1F1;
+}
+
+.mid-nav-bar{ 
+    background-color: #F1F1F1;
+}
+
+.logo {
+    background-color: #F1F1F1;
+}
+
+.search-and-categories-container {
+    background-color: #F1F1F1;
+}
+
+#search {
+    
+}
+
+.search-btn {
+
+}
+
+.bottom-nav-bar {
+    background-color: #F1F1F1;
+}
